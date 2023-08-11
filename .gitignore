@@ -2,3 +2,5 @@ coverage
 .ruby-version
 *.swp
 .bundle/
+.devcontainer/devcontainer.json
+.devcontainer/Dockerfile
